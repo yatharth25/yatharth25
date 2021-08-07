@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yatharthdevelops@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://tinyurl.com/yatharthresume)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/yatharth25resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
