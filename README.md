@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth25&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth25" /> </p>
 
-- 🔭 I’m currently working on **Edu Product (Internship at Erevna)**
+- 🔭 I’m currently working on **Website Builder Product (Fulltime Flutter Developer at YouMeWho)**
 
 - 🌱 I’m currently learning **GraphQl | Microsoft MHS**
 
