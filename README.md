@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth25&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth25" /> </p>
 
-- 🔭 I’m currently working on **Website Builder Product (Fulltime Flutter Developer at YouMeWho)**
+- 🔭 I’m currently working on **Calling and Finance/Payment Products (Fulltime Flutter Developer at LeverageEdu)**
 
-- 🌱 I’m currently learning **GraphQl | Microsoft MHS**
+- 🌱 I’m currently learning **Native Swift IOS | Kotlin**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
